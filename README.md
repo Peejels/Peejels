@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Peejels
-- 👀 I’m interested in Robotics and Engineering
-- 🌱 I’m currently learning Python and basic robotics through Arduino
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-Hello!
+What did you expect.
+Learned some python and work with electronics
+Yipee
 
 <!---
 Peejels/Peejels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
